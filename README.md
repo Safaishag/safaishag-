@@ -2,14 +2,14 @@
 
 ---
 
-  My name is Safa Ahmed Ishag,from *Sudan* with background in Pharmacy.
+  My name is Safa Ahmed Ishag,from *Sudan* and am student at MIT Emerging Talent.
 
  ---
 
- ## List of  some entities with whom i have volunteered
+ ## These are some entities with whom i have volunteered
 
 * Save The Children Organization.
-* Care International Organization
+* Care International Organization.
 * Tuvalu Association for Individuals with Special Needs.
   
   ### Table to present my languages skills and countries i visited
@@ -21,9 +21,17 @@
   |Qatar       |French      |
   |Tchad       |Spanish     |
   |Egypt       |            |
-  
+
+  ## Technical skills
+
+  * Html.
+  * CSS.
+  * C++.
+  * Excel.
+
   *links*
   <safaishag88@yahoo.com>
+  
   ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png
   )
   
